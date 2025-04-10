@@ -1,7 +1,7 @@
 # Game_Sale_Analysis
 ALL python jupyter notebook
 
-<img src="">
+<img src="https://github.com/rpjinu/Game_Sale_Analysis/blob/main/game_image.png">
 
 # 🎮 Game Sales Data Analysis
 
